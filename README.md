@@ -12,6 +12,6 @@ Enter a Twitter handle or hashtag and get a emoji based on what the sentiment is
 * Use MLModel to analyze tweets
 
 ### Obtain Twitter API Key:
-* Create [Twitter Dev account](developer.twitter.com)
+* Create [Twitter Dev account](https://developer.twitter.com)
 * Create a new App from dev dashboard
 * Use given keys
