@@ -6,8 +6,8 @@ Enter a Twitter handle or hashtag and get a emoji based on what the sentiment is
 
 ## What is learned
 
-* How to use create Machine Learning models using Apple CreateML
-* How to use created ML Model with Apple CoreML
+* How to use Machine Learning models using Apple CreateML
+* How to use ML Model with Apple CoreML
 * Learn how to parse twitter JSON for tweets
 * Use MLModel to analyze tweets
 
